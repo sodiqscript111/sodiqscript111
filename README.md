@@ -1,10 +1,10 @@
-# 👋 Hi there, I'm Sodiq — Software Engineer | Builder of Digital Systems
+# 👋 Hi there, I'm Sodiq — Go-Driven Backend Developer | Crafting APIs, Scaling Systems & Keeping Downtime to Zero
 
 Welcome to my GitHub space — a digital journal of my engineering journey where ideas become reality through code, curiosity, and continuous iteration.
 
 ## 💻 About Me
 
-I'm a passionate software engineer with a focus on **frontend architecture**, **scalable backend systems**, and **product thinking**. Whether I'm designing expressive UI animations, building real-time queue systems, or engineering event-driven microservices, I’m always driven by a clear principle: **clarity meets craftsmanship**.
+I'm a passionate software engineer with a focus on  **scalable backend systems**,**frontend architecture**, and **product thinking**. Whether I'm designing expressive UI animations, building real-time queue systems, or engineering event-driven microservices, I’m always driven by a clear principle: **clarity meets craftsmanship**.
 
 Currently exploring the future of:
 
