@@ -27,7 +27,7 @@ Here's what I use to architect and ship production-grade software:
 - **Postgres** - For database
 - **GORM** — ORM for managing SQL/NoSQL databases like PostgreSQL and SQLite.
 - **Redis** — For caching and rate limiting.
-- **RabbitMQ / Pub-Sub / WebSocket Hubs** — Real-time event-driven communication.
+- **Redis / Pub-Sub ** — Real-time event-driven communication.
 
 ### 💻 Frontend
 
